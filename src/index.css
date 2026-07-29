@@ -1,13 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 html {
-  scroll-behavior: smooth;
+scroll-behavior: smooth;
 }
 
 body {
-  margin: 0;
-  min-width: 320px;
-  background: #020617;
+margin: 0;
+min-width: 320px;
+background: #020617;
+font-family: Arial, sans-serif;
 }
